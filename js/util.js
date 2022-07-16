@@ -5,4 +5,8 @@ const getRandomPositiveInteger = (a, b) => {
   return Math.floor(result);
 };
 
-export{getRandomPositiveInteger};
+const isEscapeKey = (evt) => evt.key === 'Escape';
+
+const isEnterKey = (evt) =>  evt.key === 'Enter';
+
+export{getRandomPositiveInteger, isEscapeKey, isEnterKey};

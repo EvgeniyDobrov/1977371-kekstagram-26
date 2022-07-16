@@ -1,7 +1,7 @@
 import { createFotos } from './data.js';
 
-// const userDialog = document.querySelector('.big-picture');
-// userDialog.classList.remove('hidden');
+const userDialog = document.querySelector('.big-picture');
+userDialog.classList.remove('hidden');
 
 const similarListFoto = document.querySelector('.pictures');
 const similarCreateFotos = document.querySelector('#picture').content.querySelector('.picture');
