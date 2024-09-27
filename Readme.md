@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Евгений Калинин](https://up.htmlacademy.ru/javascript/26/user/1977371).
-* Наставник: `Неизвестно`.
+* Наставник: [Алена Сафьянникова] (https://htmlacademy.ru/profile/safyann).
 
 ---
 
